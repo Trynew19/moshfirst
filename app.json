@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "first",
-    "slug": "first",
+    "slug": "moshfirst-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fdbbed79-41f9-427a-bf16-bd044b52db10"
+      }
+    },
+    "owner": "krishnachauhan7571"
   }
 }
